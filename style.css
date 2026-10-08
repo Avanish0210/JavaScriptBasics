@@ -1,4 +1,8 @@
-h1{
-    color: #f33333;
-    text-decoration: "Line-through";
+.content {
+    color: rgb(229, 66, 66);
+}
+
+.newClass  {
+    background-color: rgb(66, 229, 66);
+
 }
